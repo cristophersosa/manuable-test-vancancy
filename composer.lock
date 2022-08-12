@@ -4,26 +4,25 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "94f14bc2fa6b8e2cb35c93d601de4d0d",
+    "content-hash": "e99383088466ec40b5a756db30c68389",
     "packages": [
         {
             "name": "cristophersosa/fedex-manuable-test",
-            "version": "dev-main",
+            "version": "v2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cristophersosa/FedexManuableTest.git",
-                "reference": "805b967c65fde14fb068fd9a38946108a1728414"
+                "reference": "807ad743b6836f1d74cb490ee99bc3bc1bb9189b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cristophersosa/FedexManuableTest/zipball/805b967c65fde14fb068fd9a38946108a1728414",
-                "reference": "805b967c65fde14fb068fd9a38946108a1728414",
+                "url": "https://api.github.com/repos/cristophersosa/FedexManuableTest/zipball/807ad743b6836f1d74cb490ee99bc3bc1bb9189b",
+                "reference": "807ad743b6836f1d74cb490ee99bc3bc1bb9189b",
                 "shasum": ""
             },
             "require-dev": {
                 "phpunit/phpunit": "^9.5"
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -43,17 +42,15 @@
             "description": "Vacancy test - Fedex api",
             "support": {
                 "issues": "https://github.com/cristophersosa/FedexManuableTest/issues",
-                "source": "https://github.com/cristophersosa/FedexManuableTest/tree/main"
+                "source": "https://github.com/cristophersosa/FedexManuableTest/tree/v2"
             },
-            "time": "2022-08-12T07:44:36+00:00"
+            "time": "2022-08-12T15:36:44+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "cristophersosa/fedex-manuable-test": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

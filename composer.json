@@ -1,5 +1,5 @@
 {
     "require": {
-        "cristophersosa/fedex-manuable-test": "dev-main"
+        "cristophersosa/fedex-manuable-test": "^2.0"
     }
 }
