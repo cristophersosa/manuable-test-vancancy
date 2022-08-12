@@ -1,0 +1,5 @@
+{
+    "require": {
+        "cristophersosa/fedex-manuable-test": "dev-main"
+    }
+}
